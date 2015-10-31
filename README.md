@@ -8,7 +8,7 @@ E.g., if you tweeted "@username Linux is where you go to when Windows has failed
 
 The bot can be found at https://twitter.com/some_say_home
 
-##...is where things get installed.
+##...is where things get installed
 
 If you don't already have have it, please install [Node.js](http://nodejs.org/). This will install two programs: `node`, which runs JavaScript from the command line, and `npm`, which helps you install software that Node.js can run.
 
