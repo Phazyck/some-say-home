@@ -2,7 +2,7 @@
 var Twit = require('twit');
 
 // We need to include our configuration file
-var T = new Twit(require('./config.js'));
+var T = new Twit(require('config/config.js'));
 
 // q: "is%20where"%20lang%3Aen&src=typd
 
