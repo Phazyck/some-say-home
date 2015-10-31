@@ -1,6 +1,6 @@
 #Some say home...
 
-...is where the heart is.
+...is where the heart is
 This bot says it can be many other things too.
 
 This bot composes tweets describing where home is, by using other tweets containing the words "is where" as reference.
@@ -45,7 +45,7 @@ In between those quotes, instead of `'blah'`, paste the appropriate info from th
 
 No you can run 'run.bat' to use the bot. The bot will suggest a tweet it has composed. If you confirm, using 'y' in the prompt, the tweet will be posted. Any other console input will discard the current tweet and the bot will present you with a different tweet. When the bot has posted a tweet or has run out of suggestions, the program will terminate.
 
-##...is where credits are given.
+##...is where credits are given
 
 Thanks to DariusK for providing source code for an example bot at https://github.com/dariusk/examplebot/blob/master/README.md
 This has been very helpful for getting the bot up and running.
